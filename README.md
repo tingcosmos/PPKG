@@ -7,3 +7,6 @@ This PPKG dataset comprises two subsets: (1) the ppstatement set, containing det
 The PPKG dataset can be used in a wide range of biomedical applications. For example, we got meaningful results from this dataset for questions at different levels of detail, from very general (like "which probiotics benefit mental health") to completely specific (e.g. "does B. bifidum have an effect on BDNF"). Furthermore, this dataset has great potential to be expanded. For example, the detailed facts with entities, relations, and attributes can be further used to train a relation extraction model, thus enabling the automatic extraction of huge and accurate relationships from a large amount of literature. We believe that this dataset will aid both the biomedical researchers, who wish to investigate the relations between gut microbiota and human diseases, and the knowledge graph technology researchers, who intend to facilitate the application of knowledge graphs in the biomedical domain.
 
 This dataset is fully publicly available. The authors are also more than willing to provide detailed explanations and instructions on the use of the dataset for interested users.
+
+# Contact information
+For help or issues using the PPKG dataset, please contact Ting Liu (`t.liu@vu.nl`or`ting.liu.vu@hotmail.com`).

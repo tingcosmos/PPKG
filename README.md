@@ -11,7 +11,7 @@ The PPKG dataset can be used in a wide range of biomedical applications. For exa
 This dataset is fully publicly available. The authors are also more than willing to provide detailed explanations and instructions on the use of the dataset for interested users.
 
 # Download
-You can simply download the PPKG dataset at [release](https://github.com/tingcosmos/PPKG/releases) page.
+You can simply download the PPKG dataset at the [release page](https://github.com/tingcosmos/PPKG/releases).
 
 # Contact information
 For help or issues using the PPKG dataset, please contact Ting Liu (`t.liu@vu.nl`or`ting.liu.vu@hotmail.com`).
